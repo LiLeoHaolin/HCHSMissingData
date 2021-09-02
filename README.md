@@ -24,9 +24,9 @@ In this folder, we summarize the computing codes for the weighting-based approac
 
 In this folder, we summarize the computing codes for MI. The names and descriptions of the files are as follows,
 
-* *1_DataPreprocessing* - Illustrate how to pre-process the data from the website. This part of the implementation formulates creates the data files in the **1-Data** folder. 
-* *2_Parametric_models* - Show how to conduct the logistic and ridge-logistic regression using our R-package. We assess the overall performance of the parametric models using the complete-case dataset and the multiple imputation. We also conducted sensitivity analysis about the missing data mechanisms by comparing the parameter estimates from complete-case analysis and multiple imputation.
-* *3_ML* - Implement the machine learning methods described in the report. 
+* *MI_diff.sas* - The SAS code for difference model (linear regression) using multiple imputation. 
+* *MI_rate.sas* - The SAS code for rate of change model (linear regression) using multiple imputation. 
+* *MI_bin.sas* - The SAS code for binary model (logistic regression) using multiple imputation. 
 
 ### 3-Full Information Maximum Likelihood 
 
