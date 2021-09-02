@@ -1,5 +1,4 @@
-# Comparisons of Statistical Methods for Handling Attrition in a Follow-up Visit with Complex Survey Sampling
-## Simulation Codes
+# Simulation Codes for the Paper "Comparisons of Statistical Methods for Handling Attrition in a Follow-up Visit with Complex Survey Sampling"
 ### Haolin Li
 
 ## Project Description
