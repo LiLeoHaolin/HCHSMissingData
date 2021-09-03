@@ -24,15 +24,18 @@ In this folder, we summarize the computing codes for the weighting-based approac
 
 In this folder, we summarize the computing codes for MI. The names and descriptions of the files are as follows,
 
-* *MI_diff.sas* - The SAS code for difference model (linear regression) using multiple imputation. 
-* *MI_rate.sas* - The SAS code for rate of change model (linear regression) using multiple imputation. 
-* *MI_bin.sas* - The SAS code for binary model (logistic regression) using multiple imputation. 
+* *MI_diff.sas* - The SAS code for difference model (linear regression) using MI. 
+* *MI_rate.sas* - The SAS code for rate of change model (linear regression) using MI. 
+* *MI_bin.sas* - The SAS code for binary model (logistic regression) using MI. 
 
 ### 3-Full Information Maximum Likelihood 
 
 In this folder, we summarize the computing codes for FIML. The names and descriptions of the files are as follows,
 
-* *1_DataPreprocessing* - Illustrate how to pre-process the data from the website. This part of the implementation formulates creates the data files in the **1-Data** folder. 
-* *2_Parametric_models* - Show how to conduct the logistic and ridge-logistic regression using our R-package. We assess the overall performance of the parametric models using the complete-case dataset and the multiple imputation. We also conducted sensitivity analysis about the missing data mechanisms by comparing the parameter estimates from complete-case analysis and multiple imputation.
-* *3_ML* - Implement the machine learning methods described in the report. 
+* *FIML_diff_full.inp* - The Mplus code for the full difference model (linear regression) using FIML.
+* *FIML_diff_reduced.inp* - The Mplus code for the reduced difference model (linear regression) using FIML.
+* *FIML_rate_full.inp* - The Mplus code for the full rate of change model (linear regression) using FIML.
+* *FIML_rate_reduced.inp* - The Mplus code for the reduced rate of change model (linear regression) using FIML.
+
+
 
