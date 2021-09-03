@@ -24,10 +24,10 @@ In this folder, we summarize the computing codes for generating population and s
 
 In this folder, we summarize the computing codes for the weighting-based approaches, which include IPW and NRW. The names and descriptions of the files are as follows,
 
-* *train_cc.csv* - Training data set for complete-case analysis.
-* *train_mi_1.csv, train_mi_2.csv, train_mi_3.csv, train_mi_4.csv, train_mi_5.csv* - Five training data sets for multiple imputation.
-* *test.csv* - Test data set for all types of analysis.
-* *train_cc_downsample.csv* - Training data set for down-sampling analysis.
+* *Weighting_diff.r* - The R code for difference model (linear regression) using IPW or NRW. 
+* *Weighting_rate.r* - The R code for rate of change model (linear regression) using IPW or NRW. 
+* *Weighting_bin.r* - The R code for binary model (logistic regression) using IPW or NRW. 
+* *Weighting_poi.r* - The R code for incidence model (Poisson regression) using IPW or NRW. 
 
 ### 3-Multiple Imputation
 
@@ -36,6 +36,7 @@ In this folder, we summarize the computing codes for MI. The names and descripti
 * *MI_diff.sas* - The SAS code for difference model (linear regression) using MI. 
 * *MI_rate.sas* - The SAS code for rate of change model (linear regression) using MI. 
 * *MI_bin.sas* - The SAS code for binary model (logistic regression) using MI. 
+* *MI_poi.r* - The R code for incidence model (Poisson regression) using MI. 
 
 ### 4-Full Information Maximum Likelihood 
 
