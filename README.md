@@ -3,7 +3,7 @@
 
 ## Description
 
-In the paper "Comparisons of Statistical Methods for Handling Attrition in a Follow-up Visit with Complex Survey Sampling", we perform extensive simulation studies to compare the performances of various statistical methods of handling attrition in design-based analysis for data from complex sample surveys. In particular, the statistical models considered include linear, logistic, and Poisson regression model; and the missing data methods include complete-case (CC) analysis, inverse probability weighting (IPW), non-response cell weighting (NRW), multiple imputation (MI), and full information maximum likelihood (FIML) approach. Please click [here](https://www.google.com) for the full text of the paper.
+In the paper "Comparisons of Statistical Methods for Handling Attrition in a Follow-up Visit with Complex Survey Sampling", we perform extensive simulation studies to compare the performances of various statistical methods of handling attrition in design-based analysis for data from complex sample surveys. In particular, the statistical models considered include linear, logistic, and Poisson regression model; and the missing data methods include inverse probability weighting (IPW), non-response cell weighting (NRW), multiple imputation (MI), and full information maximum likelihood (FIML) approach. Please click [here](https://www.google.com) for the full text of the paper.
 
 For the sake of reproducibility, we summarize the relevant computing codes in this repository. To avoid redundancy, all the computing codes correspond to the "correctly specified" models described in the paper, and the simulation results for over-specified and under-specified models can be reproduced by adding or removing a particular set of auxiliary variables.
 
