@@ -17,7 +17,7 @@ In this folder, we summarize the computing codes for generating population and s
 
 * *Generate_Population.r* - The R code for generating the population data set. 
 * *Generate_Samples.r* - The R code for generating the sample data sets and creating NRW adjusted weights. 
-* *IPW.r* - The R code creating IPW adjusted weights. 
+* *IPW.r* - The R code creating IPW adjusted weights. (still missing)
 
 ### 2-Weighting-Based Approaches
 
@@ -35,7 +35,7 @@ In this folder, we summarize the computing codes for MI. The names and descripti
 * *MI_diff.sas* - The SAS code for difference model (linear regression) using MI. 
 * *MI_rate.sas* - The SAS code for rate of change model (linear regression) using MI. 
 * *MI_bin.sas* - The SAS code for binary model (logistic regression) using MI. 
-* *MI_poi.r* - The R code for incidence model (Poisson regression) using MI. 
+* *MI_poi.r* - The R code for incidence model (Poisson regression) using MI. (still missing)
 
 ### 4-Full Information Maximum Likelihood 
 
