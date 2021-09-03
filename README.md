@@ -7,7 +7,7 @@ In the paper "Comparisons of Statistical Methods for Handling Attrition in a Fol
 
 For the sake of reproducibility, we summarize the relevant computing codes in this repository. To avoid redundancy, all the computing codes correspond to the over-specified models described in the paper, and the simulation results for correctly specified and under-specified models can be reproduced by removing a particular set of auxiliary variables.
 
-For questions or suggestions please send an email to haolin@live.unc.edu.
+For questions or suggestions about the computing codes, please send an email to haolin@live.unc.edu.
 
 ## Folders 
 
