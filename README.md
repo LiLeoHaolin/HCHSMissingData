@@ -15,10 +15,9 @@ For questions or suggestions about the computing codes, please send an email to 
 
 In this folder, we summarize the computing codes for generating population and sample data sets and creating IPW and NRW adjusted weights. The names and descriptions of the files are as follows,
 
-* *train_cc.csv* - Training data set for complete-case analysis.
-* *train_mi_1.csv, train_mi_2.csv, train_mi_3.csv, train_mi_4.csv, train_mi_5.csv* - Five training data sets for multiple imputation.
-* *test.csv* - Test data set for all types of analysis.
-* *train_cc_downsample.csv* - Training data set for down-sampling analysis.
+* *Generate_Population.r* - The R code for generating the population data set. 
+* *Generate_Samples.r* - The R code for generating the sample data sets and creating NRW adjusted weights. 
+* *IPW.r* - The R code creating IPW adjusted weights. 
 
 ### 2-Weighting-Based Approaches
 
