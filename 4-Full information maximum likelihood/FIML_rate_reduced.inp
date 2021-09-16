@@ -1,0 +1,20 @@
+DATA:
+FILE IS sample.csv;
+VARIABLE:
+NAMES = outcome x1 x2 x3 x4 x15 y1_con_bmi_v4 age_base x13 str1 str2 str3 
+BGid Weight strat age_strat1 age_strat1_x15 str1_x2 str2_x2 str3_x2 x8 x12 x14 x14_x2 
+hisp_strat1 hisp_strat1_x14 y_mar_2 y_mar_5 y_mar_10 y_mar_20 y_mar_30 y_mcar_2 
+y_mcar_5 y_mcar_10 y_mcar_20 y_mcar_30 y_mnar_2 y_mnar_5 y_mnar_10 y_mnar_20 y_mnar_30;
+MISSING IS y_mcar_30 (0);
+USEVARIABLES = x2 x15 y1_con_bmi_v4 age_base x13 str1 str2 str3 
+BGid Weight strat age_strat1 age_strat1_x15 str1_x2 str2_x2 str3_x2 y_mcar_30 
+hisp_strat1;
+CLUSTER = BGid;
+STRAT = strat; 
+WEIGHT = Weight;
+AUXILIARY = (m) x2 x13 age_base str1 str2 str3 age_strat1 age_strat1_x15 str1_x2 str2_x2 
+str3_x2 hisp_strat1;
+ANALYSIS:
+TYPE = COMPLEX;
+MODEL:
+y_mcar_30 on x15 y1_con_bmi_v4;
