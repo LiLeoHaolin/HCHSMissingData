@@ -35,7 +35,7 @@ In this folder, we summarize the computing codes for MI. The names and descripti
 * *MI_diff.sas* - The SAS code for difference model (linear regression) using MI. 
 * *MI_rate.sas* - The SAS code for rate of change model (linear regression) using MI. 
 * *MI_bin.sas* - The SAS code for binary model (logistic regression) using MI. 
-* *MI_poi.r* - The R code for incidence model (Poisson regression) using MI. (still missing)
+* *MI_poi.r* - The R code for incidence model (Poisson regression) using MI.
 
 ### 4-Full Information Maximum Likelihood 
 
