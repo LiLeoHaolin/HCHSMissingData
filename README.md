@@ -19,7 +19,7 @@ In this folder, we summarize the computing codes for generating population and s
 
 * *Generate_Population.r* - The R code for generating the population data set. 
 * *Generate_Samples.r* - The R code for generating the sample data sets and creating NRW adjusted weights. 
-* *IPW.r* - The R code creating IPW adjusted weights. (still missing)
+* *IPW.sas* - The SAS code creating IPW adjusted weights.
 
 ### 2-Weighting-Based Approaches
 
