@@ -9,7 +9,7 @@ For the sake of reproducibility, we summarize the relevant computing codes in th
 
 Note that there are also some changes to the variable names in the manuscript. The x15 in the simulations is the x5 in the manuscript; the x12 in the simulations is the x7 in the manuscript; and the x13 in the simulations is the x8 in the manuscript. 
 
-For questions or suggestions about the computing codes, please send an email to haolin@live.unc.edu.
+For questions or suggestions about the computing codes, please send an email to Leo Haolin Li at haolin@live.unc.edu.
 
 ## Folders 
 
