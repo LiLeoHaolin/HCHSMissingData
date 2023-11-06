@@ -48,6 +48,6 @@ In this folder, we summarize the computing codes for FIML. The names and descrip
 
 ## References
 
-Cai, J., Zeng, D., Li, H., Butera, N., Baldoni, P., Maitra, P., & Dong, L.(2021+). Comparisons of Statistical Methods for Handling Attrition in a Follow-up Visit with Complex Survey Sampling. Manuscript Submitted for Publication.
+Cai, J., Zeng, D., Li, H., Butera, N. M., Baldoni, P. L., Maitra, P., & Dong, L. (2023). Comparisons of statistical methods for handling attrition in a follow‐up visit with complex survey sampling. Statistics in Medicine, 42(11), 1641-1668.
 
 
