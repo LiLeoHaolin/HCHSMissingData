@@ -1,4 +1,4 @@
-# Computing Codes for the Paper "Comparisons of Statistical Methods for Handling Attrition in a Follow-up Visit with Complex Survey Sampling"
+# Computing Code for the Paper "Comparisons of Statistical Methods for Handling Attrition in a Follow-up Visit with Complex Survey Sampling"
 ### Jianwen Cai, Donglin Zeng, Haolin Li, Nicole M. Butera, Pedro L. Baldoni, Poulami Maitra, and Li Dong
 
 ## Description
